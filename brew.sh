@@ -13,4 +13,4 @@ brew cask install sublime-text
 brew cask install virtualbox
 brew cask install mou
 brew cask install google-chrome
-
+brew cask install cheatsheet
