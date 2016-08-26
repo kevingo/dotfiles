@@ -8,16 +8,12 @@ My personal dotfiles.
 $ git clone https://github.com/kevingo/dotfile.git && cd dotfile && source bootstrap.sh
 ```
 
-# Homebrew
+# Installation
 
-Install Homebrew first, 
-
-```
-$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-
-Execute the `brew.sh` to install necessary softwares.
+- Execute the `brew.sh` to install Homebrew and necessary softwares.
 
 ```
 $ ./brew.sh
 ```
+
+- Execute the `nvm.sh` to install nvm.
