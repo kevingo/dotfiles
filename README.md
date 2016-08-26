@@ -1,6 +1,6 @@
 # dotfile
 
-My peronal dotfiles.
+My personal dotfiles.
 
 # Usage
 
