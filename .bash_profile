@@ -5,6 +5,8 @@ export EDITOR="vim"
 export LC_ALL="en_US.UTF-8"
 export LANG="en_US"
 
+# brew cask default appdir
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 # Add tab completion for many Bash commands
 if which brew &> /dev/null && [ -f "$(brew --prefix)/share/bash-completion/bash_completion" ]; then
