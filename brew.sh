@@ -21,6 +21,12 @@ brew install ack
 brew install tree
 brew install wget
 
+# Install system tools
+brew install postgresql
+brew install go
+brew install ffmpeg
+
+
 # Install software
 brew cask install iterm2
 brew cask install sublime-text
