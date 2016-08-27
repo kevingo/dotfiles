@@ -36,6 +36,7 @@ brew cask install google-chrome
 brew cask install cheatsheet
 brew cask install firefox
 brew cask install postico
+brew cask install filezilla
 
 brew cleanup --force
 rm -f -r /Library/Caches/Homebrew/*
