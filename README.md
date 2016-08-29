@@ -17,3 +17,7 @@ $ ./brew.sh
 ```
 
 - Execute the `nvm.sh` to install nvm.
+
+```
+$ ./nvm.sh
+```
