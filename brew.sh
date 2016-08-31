@@ -39,6 +39,7 @@ brew cask install postico
 brew cask install filezilla
 brew cask install postman
 brew cask install visual-studio-code
+brew cask install postgres
 
 brew cleanup --force
 rm -f -r /Library/Caches/Homebrew/*
