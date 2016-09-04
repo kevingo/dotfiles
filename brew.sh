@@ -26,6 +26,7 @@ brew install postgresql
 brew install go
 brew install ffmpeg
 brew install redis
+brew install httpie
 
 
 # Install software
