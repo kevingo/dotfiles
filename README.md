@@ -21,3 +21,5 @@ $ ./brew.sh
 ```
 $ ./nvm.sh
 ```
+
+# .vimrc
