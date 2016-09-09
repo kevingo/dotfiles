@@ -27,6 +27,7 @@ brew install go
 brew install ffmpeg
 brew install redis
 brew install httpie
+brew install the_silver_searcher
 
 
 # Install software
