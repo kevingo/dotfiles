@@ -20,13 +20,14 @@ brew upgrade
 brew install ack
 brew install tree
 brew install wget
+brew install the_silver_searcher
+
 
 # Install system tools
 brew install postgresql
 brew install go
 brew install redis
 brew install httpie
-brew install the_silver_searcher
 brew install htop
 
 # Install software
