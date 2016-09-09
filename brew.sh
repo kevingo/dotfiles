@@ -24,11 +24,10 @@ brew install wget
 # Install system tools
 brew install postgresql
 brew install go
-brew install ffmpeg
 brew install redis
 brew install httpie
 brew install the_silver_searcher
-
+brew install htop
 
 # Install software
 brew cask install iterm2
