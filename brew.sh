@@ -22,13 +22,13 @@ brew install tree
 brew install wget
 brew install the_silver_searcher
 
-
 # Install system tools
 brew install postgresql
 brew install go
 brew install redis
 brew install httpie
 brew install htop
+brew install yarn
 
 # Install software
 brew cask install iterm2
