@@ -15,6 +15,8 @@ brew update
 # Upgrade any already-installed formulae
 brew upgrade
 
+# Install Homebrew-file with Homebrew
+brew install rcmdnk/file/brew-file
 
 # Install cli tools
 brew install ack
