@@ -32,6 +32,9 @@ brew install httpie
 brew install htop
 brew install yarn
 
+# Programming
+brew install go-delve/delve/delve
+
 # Install software
 brew cask install iterm2
 brew cask install sublime-text
