@@ -1,4 +1,4 @@
-# dotfile
+# dotfiles
 
 My personal dotfiles.
 
@@ -21,5 +21,3 @@ $ ./brew.sh
 ```
 $ ./nvm.sh
 ```
-
-# .vimrc
