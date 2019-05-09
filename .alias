@@ -15,6 +15,11 @@ alias d="docker"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/projects"
+
+alias g="git"
+alias gpo="g push origin"
+alias gpom="g push origin master"
+
 alias g="git"
 alias h="history"
 alias j="jobs"
